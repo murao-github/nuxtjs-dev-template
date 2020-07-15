@@ -1,0 +1,12 @@
+{
+    "name": "nuxtjs-the-complete-guide",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "nuxt.js",
+    "settings": {
+    },
+    "extensions": [
+    ],
+    "forwardPorts": [
+    ],
+    // "workspaceFolder": "/codechunk",
+}
